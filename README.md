@@ -22,6 +22,32 @@ Uygulama, backend sunucusu gerektirmeksizin tamamen tarayıcı üzerinde (kural 
 
 ---
 
+## 📸 Ekran Görüntüleri (Screenshots)
+
+### 🖥️ Masaüstü Görünümü
+
+| Ana Panel (Giriş Yapılmamış / Yeni Gün) | Ana Panel (Günlük Kayıtlar Girilmiş) |
+| :---: | :---: |
+| ![Ana Panel 1](screenshots/panel_1.png) | ![Ana Panel 2](screenshots/panel_2.png) |
+
+| Besin Arama & Ekleme | Gelişmiş İstatistik Grafikleri |
+| :---: | :---: |
+| ![Besin Arama](screenshots/besinler_1.png) | ![İstatistik Grafikleri](screenshots/istatistikler_1.png) |
+
+| Profil & VKI Hesaplama | Günlük Hedef Güncelleme |
+| :---: | :---: |
+| ![Profil Ayarları](screenshots/profil_1.png) | ![Günlük Hedef](screenshots/profil_2.png) |
+
+### 📱 Mobil Görünüm
+
+<p align="center">
+  <img src="screenshots/mobil_panel_1.jpg" width="31%" alt="Mobil Ana Panel 1" /> &nbsp;
+  <img src="screenshots/mobil_panel_2.jpg" width="31%" alt="Mobil Ana Panel 2" /> &nbsp;
+  <img src="screenshots/mobil_ogunler_1.jpg" width="31%" alt="Mobil Öğün Kayıtları" />
+</p>
+
+---
+
 ## 🛠️ Teknolojiler
 
 * **Framework:** React 19 + TypeScript
