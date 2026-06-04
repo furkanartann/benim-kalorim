@@ -164,7 +164,7 @@ export function OnboardingPage({ onComplete }: OnboardingPageProps) {
               Benim Kalorim
             </h1>
             <p className="text-xs mt-0.5" style={{ color: 'var(--color-text-muted)' }}>
-              Akıllı kalori takip uygulaması
+              Akıllı Kalori Takip Uygulaması
             </p>
           </div>
         </div>
@@ -395,8 +395,9 @@ export function OnboardingPage({ onComplete }: OnboardingPageProps) {
           </div>
         </div>
 
-        <p className="text-center text-xs mt-4" style={{ color: 'var(--color-text-muted)' }}>
-          Bilgilerin yalnızca cihazında saklanır, hiçbir sunucuya gönderilmez 🔒
+        <p className="text-center text-xs mt-4 flex flex-col gap-1" style={{ color: 'var(--color-text-muted)' }}>
+          <span>Bilgilerin yalnızca cihazında saklanır, hiçbir sunucuya gönderilmez 🔒</span>
+          <span className="font-semibold opacity-80 mt-1">© 2026 Benim Kalorim | Furkan Artan tarafından geliştirilmiştir.</span>
         </p>
       </div>
     </div>
