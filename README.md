@@ -26,6 +26,18 @@ Uygulama, backend sunucusu gerektirmeksizin tamamen tarayıcı üzerinde (kural 
 
 ### 🖥️ Masaüstü Görünümü
 
+#### 🔑 Kişiselleştirilmiş Onboarding (İlk Kurulum Adımları)
+
+| Adım 1: Karşılama & İsim Girişi | Adım 2: Fiziksel Bilgiler |
+| :---: | :---: |
+| ![Onboarding 1](screenshots/giris_ekrani_1.png) | ![Onboarding 2](screenshots/giris_ekrani_2.png) |
+
+| Adım 3: Hedef Belirleme | Adım 4: Özet & Tamamlama |
+| :---: | :---: |
+| ![Onboarding 3](screenshots/giris_ekrani_3.png) | ![Onboarding 4](screenshots/giris_ekrani_4.png) |
+
+#### 📊 Dashboard & Kullanım Ekranları
+
 | Ana Panel (Giriş Yapılmamış / Yeni Gün) | Ana Panel (Günlük Kayıtlar Girilmiş) |
 | :---: | :---: |
 | ![Ana Panel 1](screenshots/panel_1.png) | ![Ana Panel 2](screenshots/panel_2.png) |
