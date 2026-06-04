@@ -48,6 +48,30 @@ Uygulama, backend sunucusu gerektirmeksizin tamamen tarayıcı üzerinde (kural 
 
 ---
 
+## 📲 PWA (Aşamalı Web Uygulaması) Kurulumu
+
+Bu proje **PWA (Progressive Web App)** desteğine sahiptir. Bu sayede uygulamayı tarayıcı üzerinden açıp cihazınıza (mobil veya masaüstü) tıpkı bir mağaza uygulaması (native app) gibi kurabilirsiniz.
+
+### 📱 Mobil Cihazlara Kurulum (iOS & Android)
+* **Android (Google Chrome):**
+  1. Canlıdaki site adresine gidin.
+  2. Tarayıcının sağ üstündeki **üç noktaya** tıklayın.
+  3. **"Ana Ekrana Ekle"** veya **"Uygulamayı Yükle"** seçeneğini seçin.
+* **iOS / iPhone (Apple Safari):**
+  1. Canlıdaki site adresine Safari tarayıcı ile gidin.
+  2. Alt kısımdaki **"Paylaş"** (yukarı ok) butonuna basın.
+  3. Açılan menüden **"Ana Ekrana Ekle"** (Add to Home Screen) seçeneğini seçin.
+
+### 💻 Masaüstü Bilgisayara Kurulum (Windows / macOS)
+* **Google Chrome / MS Edge / Brave:**
+  1. Sitenin adres satırının en sağında çıkan **"Yükle"** (monitör üzerinde indirme oku) simgesine tıklayın.
+  2. Veya tarayıcı menüsünden **"Benim Kalorim uygulamasını yükle"** seçeneğini seçin.
+
+> [!TIP]
+> Kurulum tamamlandığında uygulama telefonunuza veya bilgisayarınıza kendi logosuyla eklenecektir. Bu sayede uygulamayı tam ekran (tarayıcı çubuğu olmadan) kullanabilir ve internet bağlantısı olmasa dahi (offline) hızlıca açabilirsiniz.
+
+---
+
 ## 🛠️ Teknolojiler
 
 * **Framework:** React 19 + TypeScript
